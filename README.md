@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Uni student,
+Uni student
 - 🔭 Currently working on uni [web project](https://github.com/tecWebSelfie/ProgettoWebApp)
 - 📱 Worked on a uni [Android native app project](https://github.com/MicheleGennari/SignalDoctor)
 - 😄 Pronouns: he/him
